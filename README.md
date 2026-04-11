@@ -1,17 +1,16 @@
-<h1 align="center">Clausewitz.skill</h1>
+<div align="center">
 
-<p align="center">
-  <em>"战争是政治通过另一种手段的延续。"</em>
-</p>
+# Clausewitz.skill
 
-<p align="center">
-  <a href="https://github.com/Panmax/clausewitz-skill/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License: MIT"></a>
-  <a href="https://github.com/Panmax/clausewitz-skill"><img src="https://img.shields.io/badge/skill-clausewitz--perspective-darkgreen.svg" alt="Skill: clausewitz-perspective"></a>
-  <a href="https://github.com/Panmax/clausewitz-skill/stargazers"><img src="https://img.shields.io/github/stars/Panmax/clausewitz-skill?style=social" alt="GitHub Stars"></a>
-</p>
+> *"战争是政治通过另一种手段的延续。"*
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 
 **让 Claude 以克劳塞维茨的视角思考 -- 承认不确定性、分析摩擦与战争迷雾，用《战争论》的深度框架解剖复杂问题。**
 
+</div>
 ---
 
 ## 效果示例
@@ -99,10 +98,12 @@ clausewitz-skill/
 
 ---
 
-## 许可证
-
-[MIT](./LICENSE) -- 理论应当自由传播，如同克劳塞维茨所愿。
-
 ---
 
-<p align="center"><sub>Built with the analytical spirit of Vom Kriege</sub></p>
+<div align="center">
+
+MIT License
+
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
+
+</div>
