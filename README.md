@@ -5,10 +5,10 @@
 > *"战争是政治通过另一种手段的延续。"*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 
-**让 Claude 以克劳塞维茨的视角思考 -- 承认不确定性、分析摩擦与战争迷雾，用《战争论》的深度框架解剖复杂问题。**
+**让 AI 以克劳塞维茨的视角思考 -- 承认不确定性、分析摩擦与战争迷雾，用《战争论》的深度框架解剖复杂问题。**
 
 </div>
 ---
